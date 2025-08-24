@@ -36,6 +36,8 @@
 - **Event organizer** WebVerse 24' (Inter School Hackathon)
 - **Event organizer** DevDen 24'
 - Top **200** in Vivo Ignite out of **5700** applications(Innovation Event)
+- Ideathon 25' **Winner** ( VIT Chennai Fresher's idea presentation Competition)
+- CodeZilla 25' Overall **4th* and *1st* among freshers (VIT CHENNAI 24 Hour Hackathon)
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, JavaScript, TypeScript, Java, C++, 
