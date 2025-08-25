@@ -22,23 +22,24 @@
 
 
 ## 🚀 About Me
-- 🖥️ Passionate about full-stack development, AI, and open-source and lil bit abt compi progreamming.
+- 🖥️ Passionate about full-stack development, AI, and open-source and lil bit abt compi programming.
 - 👨‍💻 Love building web and mobile apps that solve real-world problems.
 - 🎓 Currently exploring system design.
   
 ## 🏆 Accomplishments
-- WebVerse 23' **1st place**  (Inter School Hackathon)
-- Computer Science Quiz 23' **1st place** (Inter House Quiz)
-- DPS RPK TECH CLUB **WEB DEVELOPMENT HEAD** 24-25
-- Youthopia 24' **2nd place**  (Inter School Competitive Coding Competiton)
-- X-Code 24' **2nd place**  (Inter School Hackathon)
-- Confluence 24' **3rd place** (Inter School Hackathon)
-- **Event organizer** WebVerse 24' (Inter School Hackathon)
-- **Event organizer** DevDen 24'
-- Top **200** in Vivo Ignite out of **5700** applications(Innovation Event)
-- Ideathon 25' **Winner** ( VIT Chennai Fresher's idea presentation Competition)
-- CodeZilla 25' Overall **4th* and *1st* among freshers (VIT CHENNAI 24 Hour Hackathon)
 
+- CodeZilla 25' Overall **4th* and *1st* among freshers (VIT CHENNAI 24 Hour Hackathon)
+- Designathon 25' **Winner** ( VIT Chennai Fresher's idea presentation Competition)
+- Top **200** in Vivo Ignite out of **5700** applications(Innovation Event)
+- **Event organizer** DevDen 24'
+- **Event organizer** WebVerse 24' (Inter School Hackathon)
+- Confluence 24' **3rd place** (Inter School Hackathon)
+- X-Code 24' **2nd place**  (Inter School Hackathon)
+- Youthopia 24' **2nd place**  (Inter School Competitive Coding Competiton)
+- DPS RPK TECH CLUB **WEB DEVELOPMENT HEAD** 24-25
+- Computer Science Quiz 23' **1st place** (Inter House Quiz)
+- WebVerse 23' **1st place**  (Inter School Hackathon)
+  
 ## 🛠️ Tech Stack
 - **Languages:** Python, JavaScript, TypeScript, Java, C++, 
 - **Frameworks:** React, Next.js, Node.js, Express, Django, React Native, FLask
