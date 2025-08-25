@@ -28,7 +28,7 @@
   
 ## 🏆 Accomplishments
 
-- CodeZilla 25' Overall **4th* and *1st* among freshers (VIT CHENNAI 24 Hour Hackathon)
+- CodeZilla 25' **Overall 4th** and **1st among freshers** (VIT CHENNAI 24 Hour Hackathon)
 - Designathon 25' **Winner** ( VIT Chennai Fresher's idea presentation Competition)
 - Top **200** in Vivo Ignite out of **5700** applications(Innovation Event)
 - **Event organizer** DevDen 24'
