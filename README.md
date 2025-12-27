@@ -27,7 +27,8 @@
 - 🎓 Currently exploring system design.
   
 ## 🏆 Accomplishments
-
+- NeuralNet 25 Hosted and presented an online seminar on ethical AI. (VIT CHENNAI, 1 hour Seminar)
+- Coder's Heist 25 Designed the complete CTF questions for the event. (VIT CHENNAI, TECHNOVIT EVENT)
 - Hack The Gap 25' **Overall 4th** and **2nd among freshers** (VIT CHENNAI 24 Hour Hackathon)
 - CodeZilla 25' **Overall 4th** and **1st among freshers** (VIT CHENNAI 24 Hour Hackathon)
 - Designathon 25' **Winner** ( VIT Chennai Fresher's idea presentation Competition)
@@ -42,7 +43,7 @@
 - WebVerse 23' **1st place**  (Inter School Hackathon)
   
 ## 🛠️ Tech Stack
-- **Languages:** Python, JavaScript, TypeScript, Java, C++, 
+- **Languages:** Python, JavaScript, TypeScript, Java, C++, C
 - **Frameworks:** React, Next.js, Node.js, Express, Django, React Native, FLask
 - **Tools:** Git, Docker, VS Code, Canva, Postman
 
