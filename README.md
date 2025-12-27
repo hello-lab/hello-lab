@@ -51,12 +51,14 @@
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hello-lab?cardType=level&theme=github-dark&preferLogin=false&Border=DDDDDD&Title=91A3DD&Ring=77DDAB)](https://git.io/awesome-stats-card)
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hello-lab&border_radius=5&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only" alt="GitHub Streak">
+<!--- <img src="https://github-readme-streak-stats.herokuapp.com?user=hello-lab&border_radius=5&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only" alt="GitHub Streak">
+  
+    <img src="https://github-profile-trophy.vercel.app/?username=hello-lab&no-bg=true" />
+!--->
   <img src="https://leetcard.jacoblin.cool/ezio2023?border=1&radius=5" alt="Leetcode Stats">
 
  
 
-  <img src="https://github-profile-trophy.vercel.app/?username=hello-lab&no-bg=true" />
 
 
 ## 📌 Personal Fact:
