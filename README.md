@@ -27,14 +27,17 @@
 - 🎓 Currently exploring system design.
   
 ## 🏆 Accomplishments
-- NeuralNet 25 Hosted and presented an online seminar on ethical AI. (VIT CHENNAI, 1 hour Seminar)
-- Coder's Heist 25 Designed the complete CTF questions for the event. (VIT CHENNAI, TECHNOVIT EVENT)
-- Hack The Gap 25' **Overall 4th** and **2nd among freshers** (VIT CHENNAI 24 Hour Hackathon)
-- CodeZilla 25' **Overall 4th** and **1st among freshers** (VIT CHENNAI 24 Hour Hackathon)
-- Designathon 25' **Winner** ( VIT Chennai Fresher's idea presentation Competition)
-- Top **200** in Vivo Ignite out of **5700** applications(Innovation Event)
-- **Event organizer** DevDen 24'
-- **Event organizer** WebVerse 24' (Inter School Hackathon)
+- Code Init()26': Designed, Planned and Managed the whole hackathon along with the OC. (VIT CHENNAI, 24 Hour Hackathon)
+- Gameshift 26': Designed the game and collaborated with the team to make the full website. (VIT CHENNAI, VIBRANCE EVENT)
+- ErrorRogue 26': Designed and hosted an advanced web Debugging Event(unsolvable by AI). (VIT CHENNAI,Coding Event)  
+- NeuralNet 25': Hosted and presented an online seminar on ethical AI. (VIT CHENNAI, 1 hour Seminar)
+- Coder's Heist 25': Designed the complete CTF questions for the event. (VIT CHENNAI, TECHNOVIT EVENT)
+- Hack The Gap 25': **Overall 4th** and **2nd among freshers** (VIT CHENNAI 24 Hour Hackathon)
+- CodeZilla 25': **Overall 4th** and **1st among freshers** (VIT CHENNAI 24 Hour Hackathon)
+- Designathon 25': **Winner** ( VIT Chennai Fresher's idea presentation Competition)
+- Vivo Ignite 25': Top **200** in  out of **5700** applications(Innovation Event)
+- DevDen 24': **Event organizer** 
+- WebVerse 24': **Event organizer** (Inter School Hackathon)
 - Confluence 24' **3rd place** (Inter School Hackathon)
 - X-Code 24' **2nd place**  (Inter School Hackathon)
 - Youthopia 24' **2nd place**  (Inter School Competitive Coding Competiton)
