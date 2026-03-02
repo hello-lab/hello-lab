@@ -27,7 +27,7 @@
 - 🎓 Currently exploring system design.
   
 ## 🏆 Accomplishments
-- Code Init()26': Designed, Planned and Managed the whole hackathon along with the OC. (VIT CHENNAI, 24 Hour Hackathon)
+- Code Init() 26': Designed, Planned and Managed the whole hackathon along with the OC. (VIT CHENNAI, 24 Hour Hackathon)
 - Gameshift 26': Designed the game and collaborated with the team to make the full website. (VIT CHENNAI, VIBRANCE EVENT)
 - ErrorRogue 26': Designed and hosted an advanced web Debugging Event(unsolvable by AI). (VIT CHENNAI,Coding Event)  
 - NeuralNet 25': Hosted and presented an online seminar on ethical AI. (VIT CHENNAI, 1 hour Seminar)
